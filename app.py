@@ -1,4 +1,5 @@
-# Program to display the Fibonacci sequence up to n-th term ()
+
+# Program to display the Fibonacci sequence up to n-th term {}
 
 nterms = int(input("How many terms? "))
 
