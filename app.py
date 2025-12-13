@@ -1,4 +1,7 @@
 # Program to display the Fibonacci sequence up to n-th term ()
+# Just adding something for demonstartion
+
+print("Demonstration")
 
 nterms = int(input("How many terms? "))
 
@@ -8,7 +11,7 @@ count = 0
 
 # check if the number of terms is valid
 if nterms <= 0:
-   print("Please enter a positive integer")
+   print("Please enter a positive integer only")
 # if there is only one term, return n1
 elif nterms == 1:
    print("Fibonacci sequence upto",nterms,":")
